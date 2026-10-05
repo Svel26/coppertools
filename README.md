@@ -1,5 +1,9 @@
 # Copper Tools
 
+<p align="center">
+  <img src="logo.png" alt="Copper Tools Logo" width="200"/>
+</p>
+
 A lightweight Minecraft 1.21.1 NeoForge mod that adds a complete set of copper tools with authentic stats and textures.
 
 ## 🪓 Features
